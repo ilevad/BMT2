@@ -1,7 +1,7 @@
 # SpringBootFX
 Simple example for Spring Boot and JavaFX application
 Simple example for Spring Boot and JavaFX application
-Contains profiles: **default**, **nmi** and **aper**
+Contains profiles: default, nmi and **aper**
 
 Active profile nmi sets in application.yml
 
@@ -25,4 +25,4 @@ logging:
 
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-documentation
 
-https://spring-projects.ru/guides/lessons/lesson-2/
+[spring quides](https://spring-projects.ru/guides/lessons/lesson-2/)
