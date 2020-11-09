@@ -26,4 +26,3 @@ logging:
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-documentation
 
 [Spring guides](https://spring-projects.ru/guides/lessons/lesson-2/)
-
