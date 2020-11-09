@@ -17,8 +17,9 @@ logging:
       springframework: info
  ``` 
   You can switch active profile to **aper** at a startup using 
-
+'''
   -Dspring.profiles.active=aper
+'''
   
   Output zip with single JAR appears after Gradle build task:
   build/distributions/SpringBootFX-boot
